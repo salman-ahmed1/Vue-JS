@@ -1,1 +1,1 @@
-<template><h2>Expense Tracker </h2></template>
+<template><h2>Cash Journal</h2></template>
